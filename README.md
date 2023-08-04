@@ -3,7 +3,7 @@ King Chami whatsapp bot is,
 <u>♥️ ᴀɴ ᴡʜᴀᴛsᴀᴘᴘ ᴜsᴇʀ ʙᴏᴛ ʙʏ ᴍʀ ɴɪᴍᴀ ♥️</u>
 </p>
 <p align="center">
-<img src="[https://i.ibb.co/nPYVtwV/queen-elisa-new-logo-600-600.jpg](https://i.ibb.co/64M0cdQ/68747470733a2f2f74656c656772612e70682f66696c652f3639613834623435343830383762303661666566342e6a7067-f.jpg)" width="300" height="300"/>
+<img src="[https://i.ibb.co/nPYVtwV/queen-elisa-new-logo-600-600.jpg]" width="300" height="300"/>
       King Chami whatsapp bot is an easy to use whatsapp robot.   |  King Chami whatsapp bot යනු ඔබට පහසුවෙන් බාවිතකර හැකි whatsapp robo වරයෙකි.
 
 # 
