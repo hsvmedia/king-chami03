@@ -9,6 +9,6 @@ King Chami whatsapp bot is,
 * 𝗙𝗢𝗥𝗞 𝗡𝗢𝗪
 
 <p align="left">
-<a href="https://github.com/hsvmedia/king-chami03/fork"><img align="center" src="https://telegra.ph/file/3514997e86c4bb12d8f67.png" alt="Fork and deploy" height="35" width="155" /></a
+<a href="gh repo clone hsvmedia/king-chami03/fork"><img align="center" src="https://telegra.ph/file/3514997e86c4bb12d8f67.png" alt="Fork and deploy" height="35" width="155" /></a
 hi 
 kasstiya
